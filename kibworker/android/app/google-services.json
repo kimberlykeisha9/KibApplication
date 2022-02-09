@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "664305180623",
+    "project_id": "kib-workers",
+    "storage_bucket": "kib-workers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664305180623:android:0badb4a5fcac75e7fc3cba",
+        "android_client_info": {
+          "package_name": "com.example.kibworker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664305180623-gs942bc9cc0tv6cbo0eqjap416gg921u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kibworker",
+            "certificate_hash": "b4d7e8fd5bb4780e5cbc81a8f5ca0e65f172eebf"
+          }
+        },
+        {
+          "client_id": "664305180623-4639f8t1aveeun8puehaljv3ol2if76o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7GsV7dJtVV85KY80wcHYMZX_-RlrqZv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664305180623-4639f8t1aveeun8puehaljv3ol2if76o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "269078003569",
+    "project_id": "kib-main",
+    "storage_bucket": "kib-main.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269078003569:android:1381c6d8b85280a07380d0",
+        "android_client_info": {
+          "package_name": "com.kib.kib"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269078003569-2g58mme5fh4iitihifnpm5majn99p7mo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kib.kib",
+            "certificate_hash": "b4d7e8fd5bb4780e5cbc81a8f5ca0e65f172eebf"
+          }
+        },
+        {
+          "client_id": "269078003569-id1o07eujv4s2rh0509sisnde88c47pq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzXiOrThMhXYfY8zCj7xWba4yqZsCxR34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269078003569-id1o07eujv4s2rh0509sisnde88c47pq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
